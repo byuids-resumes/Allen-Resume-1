@@ -6,7 +6,6 @@ title: Austin Allen's Resume
 
 <div id="webaddress">
 <a href="austinda@byui.edu">austinda@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="linkedin.com/in/austindallen">LinkedIn</a>
 | <a href="https://github.com/adallen93">GitHub</a>
 </div>
