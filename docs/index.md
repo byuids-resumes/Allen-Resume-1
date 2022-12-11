@@ -59,7 +59,7 @@ __Idaho Central Credit Union__, Financial Services Officer
 ## Related Skills
 - Data science programming in R using the tidyverse.
 - Data science programming in Python using pandas and scikit-learn.
-- Familiarity with analyzing genomic datasets using bioinformatics tools.
+- Familiarity with analyzing genomic datasets using NGS.
 - Statistical methods.
 - Biological research methods.
 - Fluent in conversational Spanish.
